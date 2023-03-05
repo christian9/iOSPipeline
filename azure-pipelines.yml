@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'macos-10.14'
+  vmImage: 'macos-latest'
 
 variables:
   - name: configuration
